@@ -12,6 +12,7 @@ Minimum plot to be created: 62,500
 Numbers of free objects(NFT Products, Materials and Avatars) with dedicated Barachiel Engine for land design
 1500 objects.</p>
 
+
 Recommended Device :
 
 Phone Device : AR VR Website
