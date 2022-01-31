@@ -7,11 +7,8 @@ To support the holders, we transfer the pieces of land only with MGLC Token.
 Genesis Land base information:
 
 Total multi-layer land pieces :1,000,000
-Min Buy 2 pieces
-Max Buy 16 pieces
 Maximum plot to be created: 500,000
 Minimum plot to be created: 62,500
-The price of each piece at fixed rate 350MGLC
 Numbers of free objects(NFT Products, Materials and Avatars) with dedicated Barachiel Engine for land design
 1500 objects.
 
