@@ -10,7 +10,7 @@ Total multi-layer land pieces :1,000,000
 Maximum plot to be created: 500,000
 Minimum plot to be created: 62,500
 Numbers of free objects(NFT Products, Materials and Avatars) with dedicated Barachiel Engine for land design
-1500 objects.
+1500 objects.</p>
 
 Recommended Device :
 
